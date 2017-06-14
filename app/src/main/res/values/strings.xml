@@ -1,0 +1,23 @@
+<resources>
+    <!--액션,드라마,애니메이션, 공포, 다큐멘터리, 코미디, 판타지, SF, 모험-->
+    <string name="app_name">Hyerin_mobileproject</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">액션</string>
+    <string name="drama">드라마</string>
+    <string name="animation">애니메이션</string>
+    <string name="horror">공포</string>
+    <string name="documentary">다큐멘터리</string>
+    <string name="comedy">코미디</string>
+    <string name="fantasy">판타지</string>
+    <string name="SF">SF</string>
+    <string name="adventure">모험</string>
+
+
+
+
+<string name="app_about_message">안드로이드팝업메시지</string>
+<string name="str_ok">OK</string>
+<string name="app_exit_message">나가기</string>
+<string name="str_no">NO</string>
+
+</resources>

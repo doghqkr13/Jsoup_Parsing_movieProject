@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.sampledialogimage.MainActivity" >
+
+    <!--액션,드라마,애니메이션, 공포, 다큐멘터리, 코미디, 판타지, SF, 모험-->
+    <item
+        android:id="@+id/action"
+        android:orderInCategory="100"
+        android:title="@string/action_settings" />
+    <item
+        android:id="@+id/drama"
+        android:orderInCategory="100"
+        android:title="@string/drama"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/animation"
+        android:orderInCategory="100"
+        android:title="@string/animation"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/horror"
+        android:orderInCategory="100"
+        android:title="@string/horror"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/document"
+        android:orderInCategory="100"
+        android:title="@string/documentary"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/comedy"
+        android:orderInCategory="100"
+        android:title="@string/comedy"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/fantasy"
+        android:orderInCategory="100"
+        android:title="@string/fantasy"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/SF"
+        android:orderInCategory="100"
+        android:title="@string/SF"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/adventure"
+        android:orderInCategory="100"
+        android:title="@string/adventure"
+        app:showAsAction="never"/>
+
+</menu>
